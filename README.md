@@ -11,11 +11,7 @@ Gabriel, Desenvolvedor Full-Stack em desenvolvimento!
 HTML5 e CSS3.
 
 ## Como visualizar
-Baixe ou clone o repositório e abra o arquivo `index.html` no navegador.
-
-```
-git clone https://github.com/seu-usuario/meu-portfolio.git
-```
+Baixe ou clone o repositório e abra o arquivo `index.html` no navegador.```
 
 ## Design
 Layout baseado no design do Figma do desafio "Meu primeiro portfólio".
